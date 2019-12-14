@@ -29,4 +29,4 @@ Create a wider market for those involved in production to market their products 
 
 Create and empower more farmers to satisfy international market demand for agricultural raw materials
 
-Increase the interest of Africans in diaspora to invest in businesses in Africa thereby creating more jobs.
+Increase the interest of Africans in diaspora to invest in startups/businesses in Africa thereby creating more jobs.
