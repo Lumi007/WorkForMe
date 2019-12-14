@@ -23,9 +23,9 @@ CSS
 
 JavaScript
 # Benefits
-Creates more frims/ companies to employ the youths
+Creates more firms/ companies to employ the youths
 
-Create a wider market for those involved in production to market their products outside Africa
+Create a wider market for those involved in local production to market their products outside Africa
 
 Create and empower more farmers to satisfy international market demand for agricultural raw materials
 
