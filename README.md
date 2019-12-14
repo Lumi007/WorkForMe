@@ -5,7 +5,7 @@ Olumide Fakorede, ollunimati@gmail.com
 
 Ahmed Seun Bello, hamebello@gmail.com
 # Problem
-Africans working abroad find it difficult to get trusted people in africa to help them set up and manage their business/company in africa which could create employment/jobs while they are away, This has forced most of them to stay back abroad because they have nothing to fall back to in africa after retirement.
+Africans working abroad find it difficult to get trusted people in africa to help them set up and manage a company/business in africa which could create employment/jobs while they are away, This has forced most of them to stay back abroad because they have nothing to fall back to in africa after retirement.
 
 Africans abroad often have problems getting trusted people to help them buy lands and build houses in africa as most of them have been duped in the past of their hard earned money and some even lost their lives as a result of battling with relatives over their hard earned money
 
