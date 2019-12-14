@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+:root {
+    --primaryColor : rgb(50, 161, 205);
+}
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+body {
+    background-color: rgb(241, 241, 241);
+    padding: 25px 50px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: var(--primaryColor)
+}
+
+li {
+    list-style: None;
+    display: inline;
+}
+.WorkForMe-Navbar {
+    background-color: white;
+}
+
+.WorkForMe-Navbar-Wrapper {
+    padding: 10px 30px;
+}
+.workforMe-Logo {
+    display: inline;
+}
+.workforMe-Logo h1 {
+    display: inline;
+}
+.navbar-link {
+    float: right;
+    padding-top: 5px;
+}  
+.navbar-link li {
+    margin:0px auto;
+    padding: 0px 10px;
+    border-right: 2px solid var(--primaryColor);
+} 
+.clearfix {
+    clear: both;
+}
+ 
