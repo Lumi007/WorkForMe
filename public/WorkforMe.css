@@ -195,6 +195,10 @@ li {
     .newsletter-wrap {
         display: block;
     }
+    body {
+        box-sizing: border-box;
+        padding: 25px 0px;
+    }
 }
 /* Registrtion Page starts here */
 .signup-page-cont {
