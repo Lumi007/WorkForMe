@@ -214,7 +214,7 @@ li {
     font-size: 1.3em;
     display: block;
 }
-.signup-page-wrapper input {
+.signup-page-wrapper input, select {
     height: 2.5em;
     background: none;
     border: 2px solid rgb(4, 28, 37);
