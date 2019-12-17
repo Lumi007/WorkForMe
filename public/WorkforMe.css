@@ -199,13 +199,10 @@ li {
         box-sizing: border-box;
         padding: 25px 0px;
     }
-    .signup-page-cont {
-        width: 100%;
-    }
 }
 /* Registrtion Page starts here */
 .signup-page-cont {
-    width: 400px;
+    width: 350px;
     border: 2px solid var(--primaryColor);
     box-sizing: border-box;
     border-radius: 5px;
